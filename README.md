@@ -12,7 +12,7 @@
 
 ## 1. Introducción
 
-Este repositorio incluye el código fuente que implementa un sistema de recomendación basado en el filtrado colaborativo. El paradigma para desarrollar este sistema se basa en la teoría de que si los usuarios han compartido algunos de sus interes en el pasado, podrán tener gustos similares en el futuro.
+Este repositorio incluye el código fuente que implementa un sistema de recomendación basado en el filtrado colaborativo. El paradigma para desarrollar este sistema se basa en la teoría de que si los usuarios han compartido algunos de sus intereses en el pasado, podrán tener gustos similares en el futuro.
 
 Para desarrollar el sistema de recomendación se han utilizado los lenguajes de programación **HTML**, **CSS** y  **JavaScript** de forma que el usuario puede introducir los datos necesarios para realizar la recomendación a través de una página web y obtener los resultados en la pantalla de su navegador. Cabe destacar que para establecer el estilo de la página también se ha empleado el framework de CSS  [Materialize](https://materializecss.com/).
 
