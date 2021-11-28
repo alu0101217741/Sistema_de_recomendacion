@@ -5,7 +5,7 @@
 
 <p align="center">
   <br>
-  Acceda al sistema de recomendación: <a href="https://alu0101217741.github.io/Sistema_de_recomendacion_GCO/">https://alu0101217741.github.io/Sistema_de_recomendacion_GCO/</a>
+  Acceda al sistema de recomendación: <a href="https://alu0101217741.github.io/Sistema_de_recomendacion/">https://alu0101217741.github.io/Sistema_de_recomendacion/</a>
   <br>
 </p>
 
@@ -196,7 +196,7 @@ Los últimos métodos de la clase son getters para poder obtener los valores de 
 El sistema de recomendación esta disponible accediendo al siguiente enlace:
 
 <p align="center">
-  <a href="https://alu0101217741.github.io/Sistema_de_recomendacion_GCO/">https://alu0101217741.github.io/Sistema_de_recomendacion_GCO/</a>
+  <a href="https://alu0101217741.github.io/Sistema_de_recomendacion/">https://alu0101217741.github.io/Sistema_de_recomendacion/</a>
 </p>
 
 Una vez que se haya accedido se mostrará una página web con el formulario que se muestra a continuación:
